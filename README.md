@@ -5,6 +5,18 @@ Homepage
 
 ![LCO Mascot](https://i.ibb.co/bQLd7kR/homepage.png "LCO")
 
+Create Room
+
+![LCO Mascot](https://i.ibb.co/C1fKHsG/createroom.png "LCO")
+
+Join Room
+
+![LCO Mascot](https://i.ibb.co/fS3H4Hq/joinroom.png "LCO")
+
+Create Room with Spotify
+
+![LCO Mascot](https://i.ibb.co/tpv9Fxc/Login-with-spotify.png "LCO")
+
 
 # Getting Started with Votes To Skip Music App
 
