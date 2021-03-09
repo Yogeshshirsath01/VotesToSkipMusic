@@ -1,6 +1,10 @@
 # VotesToSkipMusic
 Voting app that used to skip music on public demand
 
+###Homepage
+![LCO Mascot](https://i.ibb.co/bQLd7kR/homepage.png "LCO")
+
+
 # Getting Started with Votes To Skip Music App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
