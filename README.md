@@ -1,19 +1,19 @@
 # VotesToSkipMusic
 Voting app that used to skip music on public demand
 
-Homepage
+### Homepage
 
 ![LCO Mascot](https://i.ibb.co/bQLd7kR/homepage.png "LCO")
 
-Create Room
+### Create Room
 
 ![LCO Mascot](https://i.ibb.co/C1fKHsG/createroom.png "LCO")
 
-Join Room
+### Join Room
 
 ![LCO Mascot](https://i.ibb.co/fS3H4Hq/joinroom.png "LCO")
 
-Create Room with Spotify
+### Create Room with Spotify
 
 ![LCO Mascot](https://i.ibb.co/tpv9Fxc/Login-with-spotify.png "LCO")
 
