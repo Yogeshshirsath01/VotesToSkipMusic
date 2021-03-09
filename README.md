@@ -1,7 +1,7 @@
 # VotesToSkipMusic
 Voting app that used to skip music on public demand
 
-###Homepage
+Homepage
 ![LCO Mascot](https://i.ibb.co/bQLd7kR/homepage.png "LCO")
 
 
