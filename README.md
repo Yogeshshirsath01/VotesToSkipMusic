@@ -17,16 +17,44 @@ Create Room with Spotify
 
 ![LCO Mascot](https://i.ibb.co/tpv9Fxc/Login-with-spotify.png "LCO")
 
+### Features
 
-# Getting Started with Votes To Skip Music App
+* User create room with Spotify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Room admin can change the song with Spotify
 
-## Available Scripts
+* Joining user can add votes to skip the song
 
-In the project directory, you can run:
+* More the votes the song gets changed automatically
 
-### `npm start`
+# Getting Started
+
+To start the backend
+
+First clone the repository from Github and switch to the new directory:
+
+    $ git clone git@github.com/Yogeshshirsath01/VotesToSkipMusic
+    $ cd {{ VotesToSkipMusic }}
+    
+Activate the virtualenv for your project.
+    
+Install project dependencies:
+
+    $ pip install -r requirements.txt
+    
+    
+Then simply apply the migrations:
+
+    $ python manage.py migrate
+    
+
+You can now run the development server:
+
+    $ python manage.py runserver
+
+
+## To start the frontend
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
